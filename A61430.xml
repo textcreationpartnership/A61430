@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A kind invitation to the people called Quakers, to the due consideration of some important truths in a letter and twenty questions, sent long since to their second-days meeting, and now to them all. To both which, an answer from their present yearly meeting, 1697. is desired.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61430</idno>
+            <idno type="STC">Wing S5428</idno>
+            <idno type="STC">ESTC R222006</idno>
+            <idno type="EEBO-CITATION">99833245</idno>
+            <idno type="PROQUEST">99833245</idno>
+            <idno type="VID">37720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37720)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A kind invitation to the people called Quakers, to the due consideration of some important truths in a letter and twenty questions, sent long since to their second-days meeting, and now to them all. To both which, an answer from their present yearly meeting, 1697. is desired.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, for the benefit of a religious society. And are to be sold at Mr. Holder's house in Little-Trinity-Lane,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>By Edward Stephens.</note>
+                  <note>Page 4 signed: E.S.</note>
+                  <note>With an advertisement at the bottom of page 8.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb facs="tcp:37720:1" rendition="simple:additions"/>
+            <head>A KIND INVITATION To the PEOPLE called QUAKERS, To the due Conſideration of Some Important Truths: In a <hi>Letter</hi> and <hi>Twenty Queſtions,</hi> ſent long ſince to their <hi>Second-days Meeting,</hi> and now to them all. To both which, an ANSWER from their preſent <hi>Yearly Meeting,</hi> 1697. is deſired.</head>
+            <head>
+               <hi>To</hi> William Penn, <hi>&amp; the reſt,</hi> &amp;c. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Second-Days-Meeting.</head>
+            <opener>
+               <salute>WILLIAM, <hi>with the rest of <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> with thee,</hi>
+               </salute>
+            </opener>
+            <p>MY Hearts deſire and Prayer to God for you all, is, that ye may be Saved: for I am perſwaded that you have a Zeal of God, at leaſt many of you, though not accord<g ref="char:EOLhyphen"/>ing to Knowledge in ſome things. Nevertheleſs, whereto ye have attained, in that I deſire ye may be eſtabliſhed, and that God will be graciouſly pleaſed to reveal the reſt to you, that ye may be perfect and intire, wanting nothing. For which purpoſe I come, I truſt by the Grace of God, with a Meſſage of Grace and Peace to you. I am well ſatisfied that it is no meer Humane Pro<g ref="char:EOLhyphen"/>ject or Artifice that at firſt raiſed you up, and hath conducted you hitherto: but a Supernatural Power, and that it is of the Lord, ſome way or other, (as was the Separation of the Ten Tribes from <hi>Rehoboam,</hi> 1 Kings 12.) for Correction and Reformation of ſome<g ref="char:EOLhyphen"/>thing amiſs in this Church. And therefore I dare not preſume, either upon my own head, or by my own Ability, to intermeddle in it. But my Heart is inlarged towards you upon theſe Conſide<g ref="char:EOLhyphen"/>rations: 1. That ye do aſſert one of the Great and Chief Prin<g ref="char:EOLhyphen"/>ciples of the Chriſtian Religion, which I have obſerved to be very unworthily and even deſpitefully treated by too many, who have gotten into (or ſeek) Preferments and Imployment in the Church, without Check or Reproof; and ſo unworthily deſerted by moſt, for fear of Reproach, or Diſgrace, or hindrance in their Preferment,
+<pb n="2" facs="tcp:37720:2"/>that I have not known it generouſly aſſerted by above two or three in the Pulpit, (but thoſe great Men indeed) though it be plainly a Doctrine moſt authentickly and ſolemnly profeſſed and declared in the <hi>Church of England.</hi> 2. That ye do bear a good Teſtimony againſt other Abuſes connived at; or tolerated amongſt us. 3. I am moved with Pity towards you, that you ſhould have ſo great Cauſes of Offence or Scandal given you, againſt the Holy and Eſta<g ref="char:EOLhyphen"/>bliſhed Inſtitutions and Ordinances of Chriſt, for the Miniſterial Office; for the Admiſſion of Proſelytes; and for the great Solem<g ref="char:EOLhyphen"/>nity of the Chriſtian Worſhip, which hath been ſo long abuſed with Controverſies, that I know very few Perſons now amongſt us, who do rightly and compleatly underſtand it; and even againſt the Perſon, Satisfaction, and Merits of Chriſt himſelf. But when I conſider your Notions and Sentiments concerning theſe things, though I am well ſatisfied that you are under the Conduct and Energy of ſome Spiritual Power; yet, <hi>What that Spirit is?</hi> and, <hi>Whether One or Divers?</hi> in my Judgment, doth deſerve very good Conſideration. Ye know what Spirit it was, which God ſent be<g ref="char:EOLhyphen"/>tween <hi>Abimilech</hi> and the <hi>Shechemites,</hi> Judg. 9.23. and what that was, that was ſent from the Lord to <hi>Saul,</hi> 1 Sam. 6.14. and what that was, that was commiſſioned by God in the caſe of <hi>Ahab,</hi> 1 King. 22.22, 23. and what that was, in the midſt of the Princes of <hi>Noph,</hi> Iſa. 19.14. which was from the Lord too. And that ſuch a Spirit hath been among ſome call'd <hi>Quakers,</hi> is manifeſt both by their Actions, Speeches, and Writings; nay, the very Spirit of the Devil, and of Antichriſt, is apparent and undeniable, from the Indignities offered, both in word and deed, to Holy things. But that is not the thing now to be conſidered, what Spirits may have appeared among them. For even among the Apoſtles, Satan had power to enter into <hi>Judas;</hi> and it is not improbable but thoſe, whom our Saviour told, <hi>Ye know not what Spirit ye are of;</hi> and even <hi>Peter</hi> himſelf, when our Saviour ſaid to him, <hi>Get thee behind me, Satan,</hi> might not at the time be free from ſome Impreſſions of Evil Spirits. That, 'tis likely, was a Peculiarity of our Saviours, for the Prince of this World to have nothing in him. But the thing to be conſidered, is, <hi>What Spirit that is which at first excited, and hath now the Conduct of the whole Body of this People?</hi> And, not, whe<g ref="char:EOLhyphen"/>ther it be ſent, or commiſſioned from God? but, <hi>Whether</hi> it be <hi>one of the Miniſtring Spirits</hi> ſent forth to miniſter for them, who ſhall be Heirs of Salvation? or, <hi>One of thoſe Seducing Spirits,</hi> to whom, in the latter times, that ſome would give heed, was, in the times of the Apoſtles, expreſsly ſaid by the Spirit of God? And
+<pb n="3" facs="tcp:37720:2"/>great <hi>Reaſon</hi> there is to take this into very deep Conſideration: 1. Becauſe of the many and weighty <hi>Cautions</hi> given by our Saviour and his Apoſtles, and left upon record in the Sacred Scriptures, for our warning in theſe latter times, to beware of them, and not to go out after them; with <hi>Admonitions</hi> concerning their Subtilty, their Energy or Power, and their ſtrong Deluſions to deceive, if it were poſſible, the very Elect; and that even Satan himſelf is transformed into an Angel of Light, that is, puts on the Appearance of an Angel of Light, (2 <hi>Cor.</hi> 11.14.) and, laſtly, that we ſhould try the Spirits, (1 <hi>Jo.</hi> 4.1.) 2. Becauſe, if the <hi>Tryal</hi> be by Agree<g ref="char:EOLhyphen"/>ment or Diſagreement with the Doctrine, Inſtitutions, and Ordi<g ref="char:EOLhyphen"/>nances of Chriſt, and his Apoſtles authorized by him, they may ſeem to have apoſtatized and gone off, or, at leaſt, fallen ſhort of them in matters of great moment, and ſpecial concern, thoſe be<g ref="char:EOLhyphen"/>fore-mentioned; and therefore to be Seduced by ſome <hi>Spirit of Error:</hi> For I doubt not but the Devil himſelf hath that Malice and Envy againſt the Man Chriſt Jeſus, by whom he hath been Con<g ref="char:EOLhyphen"/>quered and Vanquiſhed, and againſt the Solemn Memorial of that Victory, that could he but keep People from engaging in that Holy Covenant with Him by Baptiſm, and from the Solemnity of that Memorial, he would be willing himſelf to lead them into all other Truth, upon that condition, rather than fail. Yet, notwithſtand<g ref="char:EOLhyphen"/>ing, ſince they are a Sober People, have received, retain<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and do act upon one of the chief Principles of Chriſtianity, and have divers commendable things in them; and what Errors they have fallen into, have been occaſioned by the Scandals and Offences given by thoſe of the Church, who will have a ſad account to anſwer for it: I do hope, in the Mercy and Goodneſs of God, that if it be a good Spirit which hath the Conduct of them, he ſhall lead and diſpoſe thoſe who are Sincere amongſt them, to the acknowledgement of the Truth in thoſe things whereto they have not yet attained; and if it be otherwiſe, he ſhall be forced to reſign the Conduct of them to a more powerful and better Guide; and that we ſhall ſee ſuch a Society of <hi>Compleat Chriſtians</hi> come out of this deſpiſed People, as are at this time hardly to be found in any part of the World, as I know of. Theſe are my Thougots, and Hopes concerning this People in general at preſent. And Hopes, I ſay, grounded upon the Mercy of God, and Power of God, which no Good Being would oppoſe; nor no Evil Power can ſtand before. And in His Name I come unto you, knowing aſſuredly that neither I, nor any Humane Ability, is able to prevail againſt the Power that is amongſt you, notwithſtanding the Truths that I have mentioned already,
+<pb n="4" facs="tcp:37720:3"/>and ſhall endeavour, by the Grace and Aſſiſtance of God Almighty, through our Lord and Saviour Jeſus Chriſt, more fully to explain unto you in due time: But, as I ſaid, if it be a good Power, it will favour me, and aſſiſt me in it, and rejoyce in it too: and if it be an evil Power commiſſioned, it muſt ceaſe, and ſubmit to that Victo<g ref="char:EOLhyphen"/>rious and All-conquering Name: Its Enchantments muſt be diſ<g ref="char:EOLhyphen"/>ſolved, and its Sophiſtry and Fallacies detected. I therefore, as an Ambaſſador of Chriſt, in the Spirit and Meekneſs of Chriſt, beſeech you, Be ye reconciled to the Truths of God, and receive them with that Reverence and Gratitude that is meet, without Cavelling, or regard to any Temporal concern. I do not invite you to return to the Abuſes and Corruptions which you have forſaken, but to thoſe Truths, and to the due uſe of thoſe Holy things, againſt which you have been Scandalized by thoſe Abuſes and Corruptions. Nor do I invite you to diſſolve your Society, or to leave off your Meetings, and drown your ſelves in a promiſcuous Multitude. No, you have in part born a good Teſtimony, and I would have you do ſo ſtill: But I invite you only to make your Teſtimony more Com<g ref="char:EOLhyphen"/>pleat, Illuſtrious and Irrefragable, by bearing your Teſtimony to the whole Truth; and not any longer a Teſtimony, like the Feet of <hi>Daniel</hi>'s Image, partly ſtrong, and partly weak, by a mixture of Truth with Falſhood; for that cannot ſtand long together; but to ſtrengthen the things that remain, and ſet in order the things that are wanting, that ye may ſtand; for otherwiſe ye will be certainly Broken to Pieces. I invite you but to what I am doing my ſelf with a ſmall Company of Poor People, that is, bearing a Teſtimony for God, and manifeſtly under his Conduct: But it is neglected by them, to whom it hath been offered for a ſufficient Time, and in a ſufficient Manner, conſidering their Learning, and pretence to Knowledge: And now it is offered to you, a deſpiſed People, that God may humble the Proud and High-minded, and confound the Wiſdom of the Wiſe, by mean and deſpicable things in the ſight of Men. Be Wiſe, and neglect not the Opportunity, and you, who were laſt in the Worlds account, ſhall be firſt. Whatever you do, you will find there is ſolid Truth in the Propoſal, and I wiſh you may receive it to the Honour and Glory of God, and your own Comfort and Salvation; and you will then find me to have been</p>
+            <closer>
+               <signed>Your Sincere and Cordial Friend, <hi>E. S.</hi>
+               </signed>
+               <dateline>
+                  <date>31 <hi>Auguſt,</hi> 1696.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:37720:3"/>
+            <head>The Twenty Queſtions.</head>
+            <p n="1">I. WHETHER there be not a great Party of <hi>fallen Angels and wicked Spirits,</hi> which are Enemies to Mankind, and with all the Power, Activity and Subtilty they can, do continually endeavour to hinder their Salvation, and Commu<g ref="char:EOLhyphen"/>nion and Union with the Father, Son, and Holy Spirit?</p>
+            <p n="2">II. Whether <hi>the Word,</hi> which in the beginning was with God, and was God, was not <hi>made Fleſh,</hi> and dwelt amongſt Men, being born of the Virgin <hi>Mary,</hi> and called <hi>Jeſus,</hi> which ſignifies a Saviour, and <hi>Christ,</hi> the <hi>Meſſiah,</hi> the anointed of God, and <hi>Jeſus Christ of Nazareth?</hi>
+            </p>
+            <p n="3">III. Whether <hi>his Appearance</hi> in Mortal Fleſh was not <hi>to deſtroy the Works of the Devil,</hi> the Prince of the Party of fallen Angels and wicked Spirits; to be a Prince and a Saviour to Mankind, and the Captain of their Salvation to all who receive him, and ſubject them<g ref="char:EOLhyphen"/>ſelves intirely to his Teachings, by his Example, and by his Do<g ref="char:EOLhyphen"/>ctrine, and Precepts, and Orders recorded in the Holy Scriptures, and by the Motions of his Holy Spirit upon and in their Hearts and Minds?</p>
+            <p n="4">IV. Whether he be not the <hi>Only Mediatour</hi> between God and Man; ſo that Man can have no Communion with the Holy God, or Participation of the Spirit of Holineſs, but by and through Him?</p>
+            <p n="5">V. Whether that Party of <hi>fallen Angels and wicked Spirits,</hi> know<g ref="char:EOLhyphen"/>ing this, do not above all things <hi>endeavour,</hi> by all means, <hi>to with<g ref="char:EOLhyphen"/>hold People from cloſing and uniting with that Holy Mediatour,</hi> and to withdraw as many as they can as much as they can from Him?</p>
+            <p n="6">VI. Whether <hi>their most dangerous and ſubtile Actings</hi> in this Op<g ref="char:EOLhyphen"/>poſition be not principally, <hi>by Way of Deceit,</hi> under the Appearance and Pretence of Good to Man, and of Good Spirits?</p>
+            <p n="7">VII. Whether it hath not been foretold, that, in the latter times eſpecially, there ſhould be many <hi>falſe Teachers,</hi> who, with ſuch ſpe<g ref="char:EOLhyphen"/>cious Pretences and ſecret Energy, ſhould endeavour to draw away People from the Faith, as to deceive, if it was poſſible, the very Elect; and Warnings given to beware of them, by Chriſt, and by his Apoſtles?</p>
+            <p n="8">VIII. Whether <hi>the Spirit of God</hi> and <hi>the Spirit of Christ</hi> be not the ſame, and a Holy and Pure Spirit, a Spirit of Truth and Righ<g ref="char:EOLhyphen"/>teouſneſs, leading into all neceſſary Truth, and from all Fraud, Deceit, and Fallacy, Cavils, and ſhuffling Evaſions?</p>
+            <pb n="6" facs="tcp:37720:4"/>
+            <p n="9">IX. Whether it be not reaſonable <hi>that Christ Jeſus,</hi> who had done ſo much for Man, ſhould <hi>preſcribe</hi> what Manner he pleaſed for his Peoples engaging with Him; and for their recognizing Him, and making their Solemn Addreſs to the Father by Him; and what Orders he pleaſed, and would have obſerved and continued in his Church?</p>
+            <p n="10">X. Whether <hi>to oppoſe</hi> ſuch Appointments, Preſcriptions or Or<g ref="char:EOLhyphen"/>ders, <hi>or to cavil</hi> at them, ſeek Evaſions or Pretences to neglect them, and yet pretend to be Chriſtians, be not a great Evidence of In<g ref="char:EOLhyphen"/>ſincerity, and of a ſubtile Antichriſtian Spirit of Satan transformed into an Angel of Light?</p>
+            <p n="11">XI. Whether Jeſus Chriſt, beſides his General Command to his Apoſtles after his Reſurrection, to go to the <hi>Gentiles, and teach all Nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost,</hi> &amp;c. did not for <hi>forty days</hi> ſhew himſelf to them, <hi>ſpeaking of the things pertaining to the Kingdom of God,</hi> until the day in which he was taken up, after that he, through the Holy Ghoſt, had given Commandments unto them, and in or with thoſe <hi>Com<g ref="char:EOLhyphen"/>mandments</hi> give them ſufficient <hi>Inſtructions and Directions</hi> for the Conſtituting his Church, which he purchaſed with his Blood?</p>
+            <p n="12">XII. Whether the <hi>Apoſtles</hi> did not in all things <hi>faithfully purſue</hi> his Commands and Directions?</p>
+            <p n="13">XIII. Whether beſides his expreſs Commands and Directions, they did not alſo <hi>receive the Holy Spirit,</hi> according to his Promiſe in an extraordinary manner, and had the ſame <hi>reſiding in them,</hi> and <hi>manifeſting his Preſence</hi> with them, by extraordinary Operations, to guide and aſſiſt them in their Work?</p>
+            <p n="14">XIV. Whether they having received the Command to make Diſciples in all Nations, (whether <hi>Jews</hi> or <hi>Gentiles</hi>) baptizing them, as aforeſaid, and teaching them to obſerve all things whatſoever he commanded them, did not in all places Preach the Goſpel, exhort the People to believe and be <hi>baptized,</hi> and baptized with Water thoſe who did believe, though baptized before with <hi>John</hi>'s <hi>Baptiſm,</hi> and though they had received the Holy Spirit, whether <hi>Jews</hi> or <hi>Gentiles?</hi>
+            </p>
+            <p n="15">XV. Whether the Apoſtles, and the People converted by them, after they had received the Holy Ghoſt, did not, when they came together in one, or aſſembled for the Solemn Worſhip of God, <hi>break Bread,</hi> and <hi>eat the Lord's Supper,</hi> and do as their Lord did, and com<g ref="char:EOLhyphen"/>manded them to do; and that ſo conſtantly, that there is not known any Aſſembly of Chriſtians in the time of the Apoſtles, nor in many Ages after, to have been held for the Solemn Worſhip of God without it?</p>
+            <pb n="7" facs="tcp:37720:4"/>
+            <p n="16">XVI. Whether the Apoſtles did not <hi>ordain Elders,</hi> and appoint others, by ſpecial Appointment, to do the ſame in every City; by ſuch Authority, that none did preſume to take the Office of <hi>Elder</hi> unto himſelf, but who was ſo ordained; or the Office of <hi>Ordaining Elders,</hi> but who was ſo appointed; either in the times of the Apo<g ref="char:EOLhyphen"/>ſtles, or afterward, but who have been Infamous ever ſince?</p>
+            <p n="17">XVII. Whether ſeeing that our Saviour himſelf, though he needed not, would notwithſtanding be baptized with Water, to fulfill all Righteouſneſs, and thereupon had ſenſible Approbation from Hea<g ref="char:EOLhyphen"/>ven, did alſo by his Apoſtles baptize with Water; and that it is plain by their Practice, that his Apoſtles, and the whole Church of Chriſt, did underſtand his Command to baptize all Nations, of Baptizm by Water, and as neceſſary for Forgiveneſs of Sins; and that Baptiſm with the Holy Ghoſt was peculiar to himſelf: whe<g ref="char:EOLhyphen"/>ther, I ſay, this being ſo, it be not a forced and ſtrained Interpre<g ref="char:EOLhyphen"/>tation, without any ſound ground, and contrary to the moſt authen<g ref="char:EOLhyphen"/>tick means of explaining words, to reſtrain that Command to Baptiſm by the Holy Ghoſt only?</p>
+            <p n="18">XVIII. Whether, if ſuch Conſtruction be by any Spirit more than Humane, it be not the Spirit of Antichriſt, or Satan trans<g ref="char:EOLhyphen"/>formed, to with-hold Men under his own Dominion, from Solemnly ingaging with Chriſt, and from Forgiveneſs of their Sins in his Name? or, If it be only by Opinion of Men, ſuch Opinion ob<g ref="char:EOLhyphen"/>ſtinately perſiſted in, be not a Damnable Sin, contrary to ſubjection of all Imaginations to the Obedience of Chriſt, and ſubverting of Souls, and ſuch Teachers to be abominated and anathematized by all ſincere Chriſtians, as Seducers, and the Miniſters and Inſtruments of Satan, though they appear in Sheeps cloathing?</p>
+            <p n="19">XIX. Whether, it having been the conſtant Belief of all Na<g ref="char:EOLhyphen"/>tions, (whether <hi>Jews</hi> or <hi>Gentiles</hi>) that they had a real, though Spi<g ref="char:EOLhyphen"/>ritual, Communion with the Gods they worſhipped, in their Par<g ref="char:EOLhyphen"/>ticipation of their Sacrifices, as St. <hi>Paul</hi> intimates, 1 <hi>Cor.</hi> 10. and may be proved by good Authority; and Chriſtians duly diſpoſed, having a like Communion with Chriſt in the participation of the Conſecrated Bread and Cup, as St. <hi>Paul</hi> affirms; and the Solemn Worſhipping of God, by preſenting our Prayers to the Father, with thoſe Memorials of our Saviour's Paſſion, being plainly a Recognition of our Redemption by Chriſt, and of his Dominion over us, acquired by his Paſſion, and that that is the only Propi<g ref="char:EOLhyphen"/>tiation, and He the only Mediator, by which, and by whom, we Mortals born in Sin can have Acceſs to, and Acceptance with the Father; and St. <hi>Paul</hi> having received the Doctrine of what he
+<pb n="8" facs="tcp:37720:5"/>taught concerning this, from the Lord; and the ancient Chriſtians frequenting this Ordinance, after they had manifeſtly received the Holy Ghoſt: Whether, I ſay, this being ſo, to reject theſe either as Types and Shadows, (which are indeed Antitypes, as the <hi>Grecians</hi> expreſs it, Solemn Memorials, and Senſible Declarations before God, Angels and Men, of preſent internal Actions of our Minds, for the greater Manifeſtation and Notoriety of the Fact) be not meer Sophiſtry, Shuffle and Evaſion; or as needleſs, upon pretence that Chriſt is come to them in the Spirit; or of their having the Subſtance; be not to ſet up themſelves in Pride above the Apoſtles and Holy Chriſtians, who had ſo manifeſtly the Spirit of God; nay, above Chriſt himſelf, <hi>viz.</hi> to reject that as needleſs, which he inſtituted as neceſſary; and a plain Evidence of the Subtilty and Deluſion of Satan, to oppoſe Chriſt, and detain and withdraw Peo<g ref="char:EOLhyphen"/>ple from his Solemn Worſhip, and under the moſt ſpecious appea<g ref="char:EOLhyphen"/>rance of the Spirit of God, by ſenſible Motions to things appearing Good, and by Falſe Lights, to corrupt and adulterate them, and get and keep a reſidence in them, as if it was the Spirit of Chriſt? Whether ſuch Obſtinacy, ſuch Fallacy, in ſuch a Matter, of ſuch Importance in Chriſtianity, and yet ſo eaſie to Man, and void of all Exceptions, be not plain Evidence of a Myſtery of Iniquity in it?</p>
+            <p n="20">XX. Whether to deliver thoſe things in the Name of the Lord, as immediately from the Lord, and by his Spirit, which may be plainly perceived and detected to proceed either from a Humane Spirit, or a Spirit of Error, be not a great Preſumption againſt the Holy Majeſty of God, and a great Scandal to the Holy Doctrine of the <hi>Guidance of the Spirit of God,</hi> and therefore a double and great Sin; the Sin of the Falſe Prophets of old, and that which in <hi>Ger<g ref="char:EOLhyphen"/>many</hi> formerly, and ſince in this Nation, raiſed ſo great a Prejudice againſt the Truth?</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>TRacts Theological. 1. <hi>Aſceticks, or the Heroick Piety and Vertue of the Ancient Chriſtian</hi> Anchorets <hi>and</hi> Coenobites. 2. <hi>The Life of St.</hi> Antony <hi>out of the</hi> Greek <hi>of St.</hi> Athanaſius. 3. <hi>The Antiquity and Tradition of</hi> Myſtical Divinity <hi>among the</hi> Gentiles. 4. <hi>Of the Guidance of the Spirit of God, upon a Diſcourſe of Sir</hi> Matthew Hale<hi>'s concerning it.</hi> 5. <hi>An Invitation to the</hi> Quakers, <hi>to rectifie ſome Errors, which through the Scandals given they have fallen into.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Printed for the Author, for the Uſe and Benefit of a <hi>Religious Society:</hi> And are to be Sold at Mr. <hi>Holder</hi>'s Houſe in <hi>Little-Trinity Lane,</hi> 1697.</p>
+            <pb facs="tcp:37720:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
